@@ -17,7 +17,7 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 ### Web-based creative coding
 
 - [p5js](https://p5js.org/)
-- [Glitch]
+- [Glitch](https://glitch.com/) Coding in the browser, with tutorials and community
 - [three.js](https://threejs.org/)
 - [A Frame](https://aframe.io/)
 - [paper.js](http://paperjs.org/)
