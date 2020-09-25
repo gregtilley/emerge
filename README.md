@@ -35,23 +35,23 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 
 ### Ethics
 
-- *Weapons of Math Destruction* – Cathy O'Neil
-- *Future Ethics* – Cennydd Bowles
+- *Weapons of Math Destruction* – Cathy O'Neil (2016)
+- *Future Ethics* – Cennydd Bowles (2018)
 
 ### Technology
 
-- *Radical Technologies: The Design of Everyday Life* – Adam Greenfield
+- *Radical Technologies: The Design of Everyday Life* – Adam Greenfield (2017)
 
 ### Design
 
-- *Speculative Everything* – Anthony Dunne & Fiona Raby
+- *Speculative Everything* – Anthony Dunne & Fiona Raby (2013)
 
 ## Watching
 
 ### AI / Machine Learning
 
-- [Alpha Go](https://www.alphagomovie.com/)
+- [Alpha Go](https://www.alphagomovie.com/) (2017)
 
 ### Design
 
-- [Objectified – Gary Hustwit](https://www.hustwit.com/objectified)
+- [Objectified – Gary Hustwit](https://www.hustwit.com/objectified) (2009)
