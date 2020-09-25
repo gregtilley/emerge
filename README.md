@@ -25,3 +25,5 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 - [Runway ML](https://runwayml.com/)
 - [Wekinator](http://www.wekinator.org/)
 
+### Learning code
+- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
