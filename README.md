@@ -45,7 +45,9 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 
 ### Design
 
+- *Digital by Design* – Troika (2010)
 - *Speculative Everything* – Anthony Dunne & Fiona Raby (2013)
+- *Generative Design* – Benedikt Gross, Hartmut Bohnacker (2018)
 
 ## Watching
 
