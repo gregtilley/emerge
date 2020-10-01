@@ -19,11 +19,11 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 - [p5js](https://p5js.org/) – A JavaScript version of Processing, for the web
 - [Glitch](https://glitch.com/) – Coding in the browser, with tutorials and community
 - [three.js](https://threejs.org/) – 3d JavaScript library
-- [A Frame](https://aframe.io/) – VR in the browser
+- [A-Frame](https://aframe.io/) – VR in the browser
 - [paper.js](http://paperjs.org/) – JavaScript-based animation/interaction
 - [D3](https://d3js.org/) – Data Driven Documents. Data visualisation library
 
-### Machine Learning tools
+### Machine learning tools
 - [Runway ML](https://runwayml.com/)
 - [Wekinator](http://www.wekinator.org/)
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
@@ -38,8 +38,11 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 
 ### Ethics
 
+- *Who Owns The Future?* – Jaron Lanier (2014)
+- *The Internet is Not the Answer* – Andrew Keen (2015)
 - *Weapons of Math Destruction* – Cathy O'Neil (2016)
 - *Future Ethics* – Cennydd Bowles (2018)
+- *Mindful Design* – Scott Riley (2018)
 
 ### Technology
 
