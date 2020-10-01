@@ -31,6 +31,7 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 
 ### Learning code
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+- [Machine Learning for Artists](https://ml4a.github.io/)
 
 ## Reading
 
