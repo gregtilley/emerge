@@ -33,7 +33,7 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) – great youtube channel for learning Processing (mostly)
 - [Machine Learning for Artists](https://ml4a.github.io/) – collection of resources for using machine learning in artistic practice
 - [glitch.com](https://glitch.com/) – online code editor with community support
-- [Python for Designers](https://pythonfordesigners.com/) – online manual for learning Python to work with *Drawbot*
+- [Python for Designers](https://pythonfordesigners.com/) – online manual for learning Python, specifically for designers, working with *Drawbot* as a way to generate vector graphics using code
 - [Code Academy](https://www.codecademy.com/) – platform with courses for learning a number of programming languages
 
 ## Reading
