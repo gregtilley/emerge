@@ -33,6 +33,7 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) – great youtube channel for learning Processing (mostly)
 - [Machine Learning for Artists](https://ml4a.github.io/) – collection of resources for using machine learning in artistic practice
 - [glitch.com](https://glitch.com/) – online code editor with community support
+- [Code Academy](https://www.codecademy.com/)
 
 ## Reading
 
@@ -64,3 +65,8 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 ### Design
 
 - [Objectified – Gary Hustwit](https://www.hustwit.com/objectified) (2009)
+
+## Websites
+
+- [algorithms.design](https://algorithms.design)
+- https://github.com/vibertthio/awesome-machine-learning-art
