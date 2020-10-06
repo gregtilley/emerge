@@ -34,7 +34,7 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 - [Machine Learning for Artists](https://ml4a.github.io/) – collection of resources for using machine learning in artistic practice
 - [glitch.com](https://glitch.com/) – online code editor with community support
 - [Python for Designers](https://pythonfordesigners.com/) – online manual for learning Python to work with *Drawbot*
-- [Code Academy](https://www.codecademy.com/) – Platform with courses for learning a number of programming languages
+- [Code Academy](https://www.codecademy.com/) – platform with courses for learning a number of programming languages
 
 ## Reading
 
