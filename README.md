@@ -70,4 +70,5 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 ## Websites
 
 - [algorithms.design](https://algorithms.design)
+- [Creativity &times; Machine Learning](https://mlart.co/)
 - https://github.com/vibertthio/awesome-machine-learning-art
