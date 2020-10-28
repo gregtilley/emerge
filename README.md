@@ -35,8 +35,8 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 - [glitch.com](https://glitch.com/) – online code editor with community support
 - [Python for Designers](https://pythonfordesigners.com/) – online manual for learning Python, specifically for designers, working with *Drawbot* as a way to generate vector graphics using code
 - [Code Academy](https://www.codecademy.com/) – platform with courses for learning a number of programming languages
-- [CSS Tricks resource list](https://css-tricks.com/where-do-you-learn-html-css-in-2019/)
-- [Interneting is hard](https://www.internetingishard.com/)
+- [CSS Tricks resource list](https://css-tricks.com/where-do-you-learn-html-css-in-2019/) – great list of places you could learn to code for the web, lots of different options
+- [Interneting is hard](https://www.internetingishard.com/) – a detailed, online course to teach HTML and CSS for beginners
 
 ## Reading
 
