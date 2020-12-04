@@ -64,6 +64,7 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 ### AI / Machine Learning
 
 - [Alpha Go](https://www.alphagomovie.com/) (2017)
+- [Machine Learning and (Typo)Graphic Design](https://vimeo.com/ondemand/mlgd) (2020) – this is paid for, on demand content, from Creative Coding Utrecht
 
 ### Design
 
