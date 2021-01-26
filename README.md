@@ -66,6 +66,10 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 - [Alpha Go](https://www.alphagomovie.com/) (2017)
 - [Machine Learning and (Typo)Graphic Design](https://vimeo.com/ondemand/mlgd) (2020) – this is paid for, on demand content, from Creative Coding Utrecht
 
+### Computation
+
+- [Algorave Generation | Resident Advisor](https://www.youtube.com/watch?v=S2EZqikCIfY)
+
 ### Design
 
 - [Objectified – Gary Hustwit](https://www.hustwit.com/objectified) (2009)
@@ -75,3 +79,4 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 - [algorithms.design](https://algorithms.design)
 - [Creativity &times; Machine Learning](https://mlart.co/)
 - https://github.com/vibertthio/awesome-machine-learning-art
+- [Brutalist website design](https://brutalistwebsites.com/)
