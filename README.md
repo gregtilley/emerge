@@ -74,6 +74,12 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 
 - [Objectified – Gary Hustwit](https://www.hustwit.com/objectified) (2009)
 
+## Studios
+
+- [Projects by If (London)](https://www.projectsbyif.com/)
+- [Superflux (London)](https://superflux.in/)
+- [Tactical Tech (Berlin)](https://tacticaltech.org/)
+
 ## Websites
 
 - [algorithms.design](https://algorithms.design)
