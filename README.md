@@ -76,9 +76,9 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 
 ## Studios
 
-- [Projects by If (London)](https://www.projectsbyif.com/)
-- [Superflux (London)](https://superflux.in/)
-- [Tactical Tech (Berlin)](https://tacticaltech.org/)
+- [Projects by If](https://www.projectsbyif.com/) (London)
+- [Superflux](https://superflux.in/) (London)
+- [Tactical Tech](https://tacticaltech.org/) (Berlin)
 
 ## Websites
 
