@@ -78,6 +78,7 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 ## Studios
 
 - [Field](https://field.io/) (London)
+- [Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/) (London)
 - [Projects by If](https://www.projectsbyif.com/) (London)
 - [Superflux](https://superflux.in/) (London)
 - [Tactical Tech](https://tacticaltech.org/) (Berlin)
