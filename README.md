@@ -81,6 +81,7 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 - [Projects by If](https://www.projectsbyif.com/) (London)
 - [Superflux](https://superflux.in/) (London)
 - [Tactical Tech](https://tacticaltech.org/) (Berlin)
+- [Universal Everything](https://www.universaleverything.com/)
 - [Variable](https://variable.io/) (London)
 
 ## Websites
