@@ -17,6 +17,7 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 ### Web-based creative coding
 
 - [p5js](https://p5js.org/) – A JavaScript version of Processing, for the web
+- [Nodes](https://nodes.io/) – Nodes is a JavaScript-based 2D canvas for computational thinking
 - [Glitch](https://glitch.com/) – Coding in the browser, with tutorials and community
 - [three.js](https://threejs.org/) – 3d JavaScript library
 - [A-Frame](https://aframe.io/) – VR in the browser
@@ -76,9 +77,11 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 
 ## Studios
 
+- [Field](https://field.io/) (London)
 - [Projects by If](https://www.projectsbyif.com/) (London)
 - [Superflux](https://superflux.in/) (London)
 - [Tactical Tech](https://tacticaltech.org/) (Berlin)
+- [Variable](https://variable.io/) (London)
 
 ## Websites
 
