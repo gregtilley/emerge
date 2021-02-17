@@ -43,7 +43,7 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 
 ### Computation / code
 
-- [Aesthetic programming](http://aesthetic-programming.net/)
+- [Aesthetic programming](http://aesthetic-programming.net/) (2021)
 
 ### Design
 
@@ -95,6 +95,7 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 - [Creativity &times; Machine Learning](https://mlart.co/)
 - https://github.com/vibertthio/awesome-machine-learning-art
 - [Brutalist website design](https://brutalistwebsites.com/)
+
 
 ## Publishing
 
