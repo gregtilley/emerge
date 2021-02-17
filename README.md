@@ -97,6 +97,6 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 - [Brutalist website design](https://brutalistwebsites.com/)
 
 
-## Watching
+## Publishing
 
 - [Open Source Publishing](http://osp.kitchen/)
