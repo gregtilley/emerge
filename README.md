@@ -100,3 +100,4 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 ## Publishing
 
 - [Open Source Publishing](http://osp.kitchen/)
+- [Pre Post Print](https://prepostprint.org/parsons/)
