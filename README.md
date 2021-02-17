@@ -38,7 +38,7 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 - [Code Academy](https://www.codecademy.com/) – platform with courses for learning a number of programming languages
 - [CSS Tricks resource list](https://css-tricks.com/where-do-you-learn-html-css-in-2019/) – great list of places you could learn to code for the web, lots of different options
 - [Interneting is hard](https://www.internetingishard.com/) – a detailed, online course to teach HTML and CSS for beginners
-- [Nature of code](https://natureofcode.com/) – coding natural systems in Processing
+- [Nature of code](https://natureofcode.com/) – coding natural systems using Processing
 
 ## Reading
 
