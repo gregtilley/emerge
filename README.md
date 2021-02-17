@@ -41,6 +41,17 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 
 ## Reading
 
+### Computation / code
+
+- [Aesthetic programming](http://aesthetic-programming.net/)
+
+### Design
+
+- *Digital by Design* – Troika (2010)
+- *Form+Code in Design, Art, and Architecture* – Casey Reas (2010)
+- *Speculative Everything* – Anthony Dunne & Fiona Raby (2013)
+- *Generative Design* – Benedikt Gross, Hartmut Bohnacker (2018)
+
 ### Ethics
 
 - *Who Owns The Future?* – Jaron Lanier (2014)
@@ -52,13 +63,6 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 ### Technology
 
 - *Radical Technologies: The Design of Everyday Life* – Adam Greenfield (2017)
-
-### Design
-
-- *Digital by Design* – Troika (2010)
-- *Form+Code in Design, Art, and Architecture* – Casey Reas (2010)
-- *Speculative Everything* – Anthony Dunne & Fiona Raby (2013)
-- *Generative Design* – Benedikt Gross, Hartmut Bohnacker (2018)
 
 ## Watching
 
@@ -91,3 +95,7 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 - [Creativity &times; Machine Learning](https://mlart.co/)
 - https://github.com/vibertthio/awesome-machine-learning-art
 - [Brutalist website design](https://brutalistwebsites.com/)
+
+## Publishing
+
+- [Open Source Publishing](http://osp.kitchen/)
