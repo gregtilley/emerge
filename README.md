@@ -80,9 +80,10 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 
 - [Objectified – Gary Hustwit](https://www.hustwit.com/objectified) (2009)
 
-## Studios
+## Artists / Studios
 
 - [Field](https://field.io/) (London)
+- [Furtherfield](https://www.furtherfield.org/) (London)
 - [Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/) (London)
 - [Projects by If](https://www.projectsbyif.com/) (London)
 - [Superflux](https://superflux.in/) (London)
