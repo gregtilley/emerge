@@ -83,13 +83,23 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 ## Artists / Studios
 
 - [Field](https://field.io/) (London)
-- [Furtherfield](https://www.furtherfield.org/) (London)
 - [Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/) (London)
 - [Projects by If](https://www.projectsbyif.com/) (London)
+- [Rhizomatiks](https://rhizomatiks.com/en/) (Tokyo)
+- [RNDR](https://rndr.studio/) (The Hague)
+- [Studio Drift](https://www.studiodrift.com/) (Amsterdam)
+- [Studio Moniker](https://studiomoniker.com/) (Amsterdam)
 - [Superflux](https://superflux.in/) (London)
 - [Tactical Tech](https://tacticaltech.org/) (Berlin)
 - [Universal Everything](https://www.universaleverything.com/)
 - [Variable](https://variable.io/) (London)
+- [YesYesNo](http://www.yesyesno.com/) (New York)
+- [Yuri Suzuki](https://yurisuzuki.com/) (London)
+
+## Galleries / Museums / Publications / Organisations
+
+- [Furtherfield](https://www.furtherfield.org/) (London)
+- [HOLO](https://www.holo.mg/) (Toronto)
 
 ## Websites
 
