@@ -65,7 +65,7 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 
 - *Radical Technologies: The Design of Everyday Life* – Adam Greenfield (2017)
 
-## Watching
+## Watching / Listening
 
 ### AI / Machine Learning
 
@@ -80,17 +80,29 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 
 - [Objectified – Gary Hustwit](https://www.hustwit.com/objectified) (2009)
 
+### Future art
+
+- [Future Art (BBC Sounds)](https://www.bbc.co.uk/programmes/m000sz87)
+
 ## Artists / Studios
 
+- [1024 Architecture](https://www.1024architecture.net/) (Paris)
+- [Etter Studio](https://etterstudio.com/) (Zurich)
 - [Field](https://field.io/) (London)
+- [Joanie Lemercier](https://joanielemercier.com/) (Brussels)
 - [Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/) (London)
 - [Projects by If](https://www.projectsbyif.com/) (London)
+- [Replica Institute](https://replica.institute/) (Berlin)
 - [Rhizomatiks](https://rhizomatiks.com/en/) (Tokyo)
 - [RNDR](https://rndr.studio/) (The Hague)
+- [Sougwen Chung](https://sougwen.com/) (New York / London / Basel)
 - [Studio Drift](https://www.studiodrift.com/) (Amsterdam)
 - [Studio Moniker](https://studiomoniker.com/) (Amsterdam)
 - [Superflux](https://superflux.in/) (London)
 - [Tactical Tech](https://tacticaltech.org/) (Berlin)
+- [Tayoon Choi](http://taeyoonchoi.com/) (Seoul)
+- [Teamlab](https://www.teamlab.art/) (Tokyo)
+- [The Experience Machine](https://www.the-experience-machine.com/) (London)
 - [Universal Everything](https://www.universaleverything.com/)
 - [Variable](https://variable.io/) (London)
 - [YesYesNo](http://www.yesyesno.com/) (New York)
@@ -98,6 +110,9 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 
 ## Galleries / Museums / Publications / Organisations
 
+- [Arebyte](https://www.arebyte.com/) (London)
+- [Bitforms Gallery](https://bitforms.art/) (New York)
+- [Feral File](https://feralfile.com/) (Online)
 - [Furtherfield](https://www.furtherfield.org/) (London)
 - [HOLO](https://www.holo.mg/) (Toronto)
 
