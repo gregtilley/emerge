@@ -93,6 +93,7 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 - [Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/) (London)
 - [Projects by If](https://www.projectsbyif.com/) (London)
 - [Replica Institute](https://replica.institute/) (Berlin)
+- [Random International](https://www.random-international.com/) (London)
 - [Rhizomatiks](https://rhizomatiks.com/en/) (Tokyo)
 - [RNDR](https://rndr.studio/) (The Hague)
 - [Sougwen Chung](https://sougwen.com/) (New York / London / Basel)
