@@ -91,6 +91,7 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 - [Field](https://field.io/) (London)
 - [Joanie Lemercier](https://joanielemercier.com/) (Brussels)
 - [Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/) (London)
+- [Onformative](https://onformative.com/) (Berlin)
 - [Projects by If](https://www.projectsbyif.com/) (London)
 - [Replica Institute](https://replica.institute/) (Berlin)
 - [Random International](https://www.random-international.com/) (London)
@@ -120,10 +121,10 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 ## Websites
 
 - [algorithms.design](https://algorithms.design)
-- [Creativity &times; Machine Learning](https://mlart.co/)
-- https://github.com/vibertthio/awesome-machine-learning-art
 - [Brutalist website design](https://brutalistwebsites.com/)
-
+- [Creativity &times; Machine Learning](https://mlart.co/)
+- [Generative Design](http://www.generative-gestaltung.de/)
+- https://github.com/vibertthio/awesome-machine-learning-art
 
 ## Publishing
 
