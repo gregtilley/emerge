@@ -31,6 +31,7 @@ This is a repository for the Emerge Strand at Kingston School of Art BA Graphic 
 - [ml5js](https://ml5js.org/)
 
 ### Learning code
+- [trcc]https://timrodenbroeker.de/learn/ – Creative coding courses/community by Tim Rodenbr&ouml;ker
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) – great youtube channel for learning Processing (mostly)
 - [Machine Learning for Artists](https://ml4a.github.io/) – collection of resources for using machine learning in artistic practice
 - [glitch.com](https://glitch.com/) – online code editor with community support
